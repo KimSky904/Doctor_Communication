@@ -40,9 +40,7 @@ release date `2021. 9. 17`
 
 `Android 6.0버전 이상`
 
-### **Installing** 
-<a href="https://play.google.com/store/apps/details?id=com.dc.doctor_communication">
-<img src="https://blog.kakaocdn.net/dn/bWSVE7/btqOhvMNNap/cUnqL5rKAuwWP7NRTv1xrK/img.png" width="130"></a>
+<!-- 리펙토링 완료 후 재업로드 예정 -->
 
 <br><br>
 
